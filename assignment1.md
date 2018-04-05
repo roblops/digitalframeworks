@@ -6,10 +6,10 @@ As the potential "trade war" between China and the United States heats up with t
 
 I also personally like Axios’ style of giving a bullet point run down after giving the current news hook, which is usually how they convey the context of a story that they’re putting out. In this article, they have three main sections: 
 
-The Facts
-Where Things Stand
-The Bottom Line
+1. The Facts
+2. Where Things Stand
+3. The Bottom Line
 
 I like the breakdown of a story into these components because it adds a level of analysis and history to stories that would usually just be quick hits to a daily news publication that would be only really written for people who are already active in Washington or a political junkie. It is a good way to bring in people to the political process that otherwise would not be interested in an issue.
 
-The way this news article has an interesting form of structuring, but I think could have included more visualizations in explaining the effects of the potential deficit changes or proposed tariffs. The conversational tone makes the story accessible where usually large number or economic policy stories can have a hard time reaching their audiences, but I believe this story would have benefited from more data visualizations or at least more *bolded components* to draw attention to what is important for the numbers themselves.
+The way this news article has an interesting form of structuring, but I think could have included more visualizations in explaining the effects of the potential deficit changes or proposed tariffs. The conversational tone makes the story accessible where usually large number or economic policy stories can have a hard time reaching their audiences, but I believe this story would have benefited from more data visualizations or at least more __bolded components__ to draw attention to what is important for the numbers themselves.
